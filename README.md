@@ -29,7 +29,7 @@ Jeden `apikey` **per konto**, nie per akcja. Serwer sam rozpoznaje, do których 
 Parametry GET (QSO) zgodne z już udokumentowanym `qso_upload.php`:
 wymagane `qso_date, time_on, callsign, band, mode, station_callsign`; opcjonalne `submode, report_sent/rst_sent, report_received/rst_rcvd, operator, owner_callsign`.
 
-## Co musi dostosować Tobiasz
+## Uwaga Tobiasz
 
 Wszystkie miejsca oznaczone `// UWAGA Tobiasz` w `radiodyplom_apikey_bridge.php`:
 - dane połączenia z bazą,
